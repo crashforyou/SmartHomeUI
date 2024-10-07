@@ -1,0 +1,116 @@
+<resources>
+    <!--导航栏-->
+    <string name="app_name">smartHome</string>
+    <string name="title_home">首页</string>
+    <string name="title_scene">场景</string>
+    <string name="title_mine">我的</string>
+
+    <!--首页-->
+    <string name="infrared">红外管理</string>
+    <string name="lock_disposable">临时密码</string>
+    <string name="airConditioner">空调</string>
+    <string name="light">照明</string>
+    <string name="operate">操作记录</string>
+    <string name="abnormal">异常警报</string>
+    <string name="sensor">传感器</string>
+    <string name="memember">成员管理</string>
+    <string name="more">更多设备</string>
+    <string name="indoor_temperature">室温</string>
+    <string name="enter">ENTER</string>
+    <string name="refresh">刷新信息</string>
+    <string name="message_board">留言板</string>
+    <string name="send_message">发送留言</string>
+    <string name="equipment">设备</string>
+    <string name="back">返回</string>
+    <string name="lock_state">已上锁</string>
+    <string name="input_code">输入指令代码</string>
+    <string name="input_message">请输入留言</string>
+    <string name="shoot">发射</string>
+    <string name="p_space">------</string>
+    <!--空调弹窗-->
+    <string name="all_open">一键全开</string>
+    <string name="all_close">一键全关</string>
+    <string name="temperature">25℃</string>
+    <string name="number">当前设备数量:</string>
+    <string name="refrigeration">制冷模式</string>
+    <string name="heating">制热模式</string>
+    <string name="ventilate">通风模式</string>
+    <string name="low_wind">低风</string>
+    <string name="middle_wind">中风</string>
+    <string name="high_wind">高风</string>
+    <string name="current_temperature">%d℃</string>
+
+    <string name="affirm">确认</string>
+    <string name="connect">连接中控端</string>
+    <string name="password">******</string>
+    <string name="target">目标设备</string>
+    <string name="prePassword">原密码</string>
+    <string name="nowPassword">新密码</string>
+    <string name="confirmPassword">确认密码</string>
+    <string name="c_pre">previous password</string>
+    <string name="c_now">new password</string>
+    <string name="c_confirm">enter again</string>
+    <string name="omit">******</string>
+    <string name="change">修改密码/密钥</string>
+    <string name="name_hint">Name</string>
+    <string name="new_key">新密钥</string>
+    <string name="new_key2">new key</string>
+    <string name="enter_new">enter new password</string>
+    <string name="rename">重命名</string>
+    <!--灯源弹窗-->
+    <string name="lamp_number">灯源数量:</string>
+    <string name="all_check">全选</string>
+    <string name="max">最大化</string>
+    <string name="no_check">取消全选</string>
+    <!--红外发射弹窗-->
+    <string name="launch">红外发射</string>
+    <string name="instruct">指令</string>
+
+    <!--临时密码发送弹窗-->
+    <string name="generate">生成</string>
+    <string name="send">发送</string>
+
+    <!--场景-->
+    <string name="back_home">回家场景</string>
+    <string name="leave_home">离家场景</string>
+    <string name="cinema">观影场景</string>
+    <string name="rest">休息场景</string>
+    <string name="execute">执行</string>
+    <string name="water_heater">热水器</string>
+    <string name="sweep_robot">扫地机器人</string>
+    <string name="air_conditioner">智感空调</string>
+    <string name="lock">门锁</string>
+    <string name="light_system">智感照明系统</string>
+    <string name="curtain">窗帘</string>
+    <string name="light_center">灯控中心</string>
+    <string name="get_up">起床场景</string>
+    <string name="guard_pattern">警备模式</string>
+    <string name="strong_light">强光灯</string>
+    <string name="living_light">客厅灯</string>
+    <string name="low_light">弱光灯</string>
+    <string name="temperature_proper">温度适宜</string>
+    <string name="humidity_proper">湿度适宜</string>
+    <string name="wind_high">风速高档</string>
+    <string name="all_light_close">关闭所有灯</string>
+    <string name="wind_low">风速低档</string>
+
+
+    <!--我的-->
+    <string name="helper">手势手册</string>
+    <string name="alter">账号切换</string>
+    <string name="network_manage">网关管理</string>
+
+    <!--contentDescription-->
+    <string name="c_alarm">警告</string>
+    <string name="c_switch">开关</string>
+    <string name="c_settings">设置</string>
+    <string name="c_add">添加成员</string>
+    <string name="c_room">客厅</string>
+    <string name="c_back_home">回家</string>
+    <string name="c_digital">可视化数据</string>
+    <string name="c_enter">进入设置界面</string>
+    <string name="c_addT">调高温度</string>
+    <string name="c_minus">降低温度</string>
+    <string name="c_pattern">切换模式</string>
+    <string name="c_wind">调节风速</string>
+</resources>
